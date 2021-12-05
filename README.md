@@ -1,2 +1,1 @@
-# cursos-dio
-Cursos realizados na plataforma Digital Innovation One
+# Repositorio com anotaçoes de cursos realizados na DIO 
